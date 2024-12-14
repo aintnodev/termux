@@ -1,0 +1,3 @@
+# ~/.profile
+
+exec fish
